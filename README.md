@@ -1,2 +1,2 @@
 # Sololearn-Java
-Programs of the course
+Programs help to solve the problems
